@@ -4,3 +4,8 @@ Compares the difference between doing things as
 simple as possible and using a fast algorithm. 
 
 Example: linear search vs binary search
+
+### Running
+```shell script
+sbt run
+```
